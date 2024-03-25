@@ -192,31 +192,31 @@ export default {
 
 /* Images pour chaque carte */
 .card.bam {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/BAM.png');
+  background-image: url(' /src/assets/BAM.png');
 }
 .card.court {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/Court.jpeg');
+  background-image: url(' /src/assets/Court.jpeg');
 }
 .card.bert {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/les-berthom-nancy.jpg');
+  background-image: url(' /src/assets/les-berthom-nancy.jpg');
 }
 .card.ours {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/Ours.jpg');
+  background-image: url(' /src/assets/Ours.jpg');
 }
 .card.schmil {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/Shmil.jpeg');
+  background-image: url(' /src/assets/Shmil.jpeg');
 }
 .card.faille {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/Faille.jpeg');
+  background-image: url(' /src/assets/Faille.jpeg');
 }
 .card.trolls {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/trolls.jpg');
+  background-image: url(' /src/assets/trolls.jpg');
 }
 .card.geor {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/geor.jpg');
+  background-image: url(' /src/assets/geor.jpg');
 }
 .card.sham {
-  background-image: url('/home/golgoth/JAM/Open/src/assets/sham.jpg');
+  background-image: url(' /src/assets/sham.jpg');
 }
 
 a span {
@@ -275,7 +275,7 @@ nav ul li a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('/home/golgoth/JAM/Open/src/assets/test.jpeg');
+  background-image: url(' /src/assets/test.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

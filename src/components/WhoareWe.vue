@@ -103,7 +103,7 @@ nav ul li a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('/home/golgoth/JAM/Open/src/assets/test.jpeg');
+  background-image: url('/src/assets/test.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -139,7 +139,7 @@ nav ul li a {
   left: 0; /* Alignement à gauche */
   width: 100%; /* Largeur sur toute la largeur de la fenêtre */
   height: 100%; /* Hauteur sur toute la hauteur de la fenêtre */
-  background-image: url('/home/golgoth/JAM/Open/src/assets/test.jpeg');
+  background-image: url('/src/assets/test.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
